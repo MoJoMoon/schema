@@ -1,2 +1,2 @@
 # schema
-[![schema](schema_legend.png)]
+![schema](schema_legend.png)
